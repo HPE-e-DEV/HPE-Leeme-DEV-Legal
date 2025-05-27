@@ -105,7 +105,7 @@ Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA, NINGUNA DE LAS PARTES
 SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades : e pay/ e transfer/ pagos P2P / 
 transferencia entre cuentas entiendase por Wallet/Banco,Wallet/Wallet,Wallet/app,
 y/o cualquier otro tipo de transaccion por via electronica/app/pagos en credito/Debito incluyendo card/ID de pago Internacional (A)
-CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL 
+CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN NI MENORES NI SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL 
 
 ni se podra pedir ningun tipo de compensacion " bajo por ningun medio" de agraviar,y/o 
 levantar falso testimonio(s) o desprestigiar a mi persona , socio(s),inversionista(s) ,Empresa(s) 
@@ -328,7 +328,40 @@ solo nuestro servicio tecnico podra desbloquear su equipo (s) y/o sus Dispositiv
 previa cancelacion de las Hrs Tecnica , Desbloqueo de Dispositivo(s) , y revocacion de servicio(s) 
 
 
-
+Código De uso privado , solicitar acceso previo, 
+código protegido por la Ley de propiedad industrial
+, GACETA OFICIAL DE LA REPUBLICA DE VENEZUELA
+Caracas, lunes 10 de diciembre de 1956 Número 25.227
+EL CONGRESO DE LA REPUBLICA DE VENEZUELA  
+                                                                                                                                                                                                                       
+ CAPITULO XII
+De las penas
+Artículo 97.- Además de los delitos contra la propiedad industrial previstos y
+castigados en el Código Penal, son también punibles los hechos enumerados en
+los artículos siguientes con las penas que en ellos se señalan.
+Artículo 98.- Los que atenten contra los derechos del legitimo titular o poseedor
+de una patente, fabricando, ejecutando, transmitiendo o usando con fines
+industriales y de lucro, sin el consentimiento expreso o tácito de aquel, copias
+dolosas y fraudulentas del objeto de la patente, serán castigados con prisión de
+uno a doce meses.
+Artículo 99.- La misma pena prevista en el artículo 98 será aplicable al que, para
+perjudicar los derechos o intereses del legitimo poseedor, use, fabrique o ejecute
+marcas, modelos o dibujos registrados u otros que con éstos se confundan.
+Artículo 100.- El que dolosamente designe un establecimiento como sucursal de
+otro que tenga denominación comercial registrada conforme a esta Ley, será
+castigado con prisión de uno a doce meses.
+Artículo 101.- Quien dolosamente se aproveche de las ventajas de una
+reputación industrial o comercial adquirida por el esfuerzo de otro que tenga su
+propiedad al amparo de la presente Ley, será castigado con prisión de uno a
+doce meses.
+    https://sapi.gob.ve/                                                                
+                                                                                                                                           
+   la violación de este articulado será Penado con 350.000 USD por codigo , mas gastos Legales incurrido
+   y  pagadero al autor de este código a nombre del Ceo HPE-DEV-Leonardo Daza Blanco     
+   Depositado en la Dirección bancaria prefijada para su Deposito                                                             
+                                                                     
+                                                                     
+                 https://sapi.gob.ve/wp-content/uploads/2020/09/ley_propiedad_intelectual.pdf
 
 
 
