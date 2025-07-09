@@ -1,6 +1,5 @@
 # HPE-Leeme-DEV-Legal
-
-El proyecto Alena La marca Bitcash Token y el proyecto Alena completo inclyendo
+La marca Bitcash Token y el Proyecto Alena completo inclyendo
 este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados es y son de mi propiedad,
 así como el de su creación le y me pertenece en su totalidad a Leonardo Daza Blanco Ceo de Ing . 
 Blockachain de la Division Empresarial De HPE
@@ -18,7 +17,7 @@ Estos repositorios esta bajo Registro Legal y su codificación fue realizado por
 la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas
 y No es de libre uso por favor No lo copien sin autorización Previa Gracias
 
-https://www.hpe.com/es/es/ acerca de/legal/términos-de-uso.html
+https://www.hpe.com/es/es/acerca de/legal/términos-de-uso.html
 
 solo podrá ser hecho bajo escrito y previa autorización a mi persona bajo un contrato inteligente, donde se establecerán las condiciones de uso,
 distribución, así como la compra y venta y/o almacenamiento de nuestro token
