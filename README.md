@@ -33,8 +33,12 @@ https://www.hpe.com/us/en/about/legal/terms-of-use.html
 Terminos y Condiciones de Uso legal HPE/ US Legal ,sobre El uso  del y/o los software(s) descargado(s) por Cada usuario ,
 Usted Como Usuario final Acepta , y Asume estos terminos y condiciones de Uso en su totalidad descripto aca ,
 para Descargar , instalar y Dar uso en su(s) Dispositivo(s) ,a cauqluier software de nuestra propiedad 
-usted como usuario Final  autoriza y exime a HPE de cualquier mal funcionamiento por Falla ajena de cualquier indole,
-Durante la instalacion De nuestro software  .
+usted como usuario Final  autoriza y exime a HPE, Como al craedor de Este proyecto de cualquier mal funcionamiento 
+y/o por Falla propias y/o ajena de cualquier indole,
+Durante la instalacion como durante su tiempo de uso De nuestro software  en su Dispositivo ,
+absteniendose y limitandose solamente a la Garantia  Emitida para  el periodo De uso 
+( cuando se refiera exclusivamente al uso del software HPE) , 
+( El Token ecash como Bitcash se rigue por un smart contract Limited Use "No modificable" ) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
