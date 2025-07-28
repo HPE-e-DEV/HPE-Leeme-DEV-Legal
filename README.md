@@ -21,7 +21,9 @@ Estos repositorios esta(n) bajo Registro Legal y su codificación fue realizado 
 Leonardo Daza Blanco y la Div. de Servicios Empresariales HPE (Div.De Negocios Digitales De HPE España) 
 
 la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas
-y No es de uso libre , uso por favor No lo(s) copien ni lo(s) descarguen  sin autorización Previa Gracias.
+y No es de uso libre , 
+
+por favor No lo(s) copien ni lo(s) descarguen  sin autorización Previa Del Creador de este proyecto " Gracias ".
 
 
 https://www.hpe.com/us/en/about/legal/terms-of-use.html
