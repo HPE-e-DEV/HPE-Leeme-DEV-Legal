@@ -2,17 +2,19 @@
 
 La marca Bitcash Token y el Proyecto Alena Completo inclyendo
 
-este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados es y son de  propiedad legal De la Div. De negocios digitales HPE,
+este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados es
+y son de  propiedad legal De la Div. De negocios digitales HPE,
 así como el de su creación le pertenece en su totalidad a 
 Leonardo Daza Blanco Ceo de Ing. 
 Blockachain de la Division Empresarial De HPE/ España
 
 basado en el articulado 
 SPDX-License-Identifier: GPL-3.0 de derecho de autor aplicado a su uso como distribución Limitada
-y comercialización como creación de nuevos tokens Bajo Autorizacion Legal Smart Contract 
+y comercialización como creación de nuevos tokens Bajo Autorizacion Legal
+( Smart Contract Limited Use & Create Token ) ,
 
-No se le puede dar un uso comercial Libre
-ni copiar su código tampoco se autoriza a cobrar por sus descargas sin la autorización previa de la División Empresarial HPE ,
+No se le puede dar un uso comercial Libre,
+ni copiar su código tampoco se autoriza a cobrar por sus descargas, sin la autorización previa de la División Empresarial HPE ,
 y sin el consentimiento así como la autorización de la División De HPE Software , sin el pago previo del importe por cada descarga
 
 Estos repositorios esta(n) bajo Registro Legal y su codificación fue realizado por 
@@ -21,7 +23,9 @@ Leonardo Daza Blanco y la Div. de Servicios Empresariales HPE (Div.De Negocios D
 la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas
 y No es de uso libre , uso por favor No lo(s) copien ni lo(s) descarguen  sin autorización Previa Gracias.
 
+
 https://www.hpe.com/us/en/about/legal/terms-of-use.html
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Terminos y Condiciones de Uso legal HPE/ US Legal ,sobre El uso  del y/o los software(s) descargado(s) por Cada usuario ,
